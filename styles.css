@@ -89,6 +89,17 @@ a {
   padding-left: 0.5rem;
 }
 
+/* Style for subheadings within sections (e.g., net art concepts) */
+.section h3 {
+  font-size: 1.3rem;
+  margin-top: 1.2rem;
+  margin-bottom: 0.4rem;
+  color: #0e2147;
+  font-weight: 600;
+  border-left: 3px solid #d14b57;
+  padding-left: 0.5rem;
+}
+
 .section p {
   margin-bottom: 1rem;
   color: #333;
